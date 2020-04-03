@@ -1,0 +1,28 @@
+.section_one {
+  background-image: url('magicc.png');
+  height: 900px;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.heroText {
+  text-align: center;
+  padding: 350px;
+  font-weight: bold;
+}
+
+.cardsPosition {
+  padding-left: 200px;
+}
+
+.cards {
+  display: inline-flex;
+  text-align: center;
+}
+
+.card {
+  width: 350px;
+  height: auto;
+  box-shadow: 1px 1px 10px 1px rgba(0, 0, 0, 0.7);
+}
